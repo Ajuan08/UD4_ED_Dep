@@ -1,0 +1,14 @@
+G:\Mi unidad\21 22 IES LOS REMEDIOS\ENTORNO DE DESARROLLO\Proyectos_VS_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.exe
+G:\Mi unidad\21 22 IES LOS REMEDIOS\ENTORNO DE DESARROLLO\Proyectos_VS_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.deps.json
+G:\Mi unidad\21 22 IES LOS REMEDIOS\ENTORNO DE DESARROLLO\Proyectos_VS_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.runtimeconfig.json
+G:\Mi unidad\21 22 IES LOS REMEDIOS\ENTORNO DE DESARROLLO\Proyectos_VS_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.runtimeconfig.dev.json
+G:\Mi unidad\21 22 IES LOS REMEDIOS\ENTORNO DE DESARROLLO\Proyectos_VS_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.dll
+G:\Mi unidad\21 22 IES LOS REMEDIOS\ENTORNO DE DESARROLLO\Proyectos_VS_2019\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.pdb
+G:\Mi unidad\21 22 IES LOS REMEDIOS\ENTORNO DE DESARROLLO\Proyectos_VS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.csproj.AssemblyReference.cache
+G:\Mi unidad\21 22 IES LOS REMEDIOS\ENTORNO DE DESARROLLO\Proyectos_VS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mi unidad\21 22 IES LOS REMEDIOS\ENTORNO DE DESARROLLO\Proyectos_VS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.AssemblyInfoInputs.cache
+G:\Mi unidad\21 22 IES LOS REMEDIOS\ENTORNO DE DESARROLLO\Proyectos_VS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.AssemblyInfo.cs
+G:\Mi unidad\21 22 IES LOS REMEDIOS\ENTORNO DE DESARROLLO\Proyectos_VS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.csproj.CoreCompileInputs.cache
+G:\Mi unidad\21 22 IES LOS REMEDIOS\ENTORNO DE DESARROLLO\Proyectos_VS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.dll
+G:\Mi unidad\21 22 IES LOS REMEDIOS\ENTORNO DE DESARROLLO\Proyectos_VS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.pdb
+G:\Mi unidad\21 22 IES LOS REMEDIOS\ENTORNO DE DESARROLLO\Proyectos_VS_2019\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.genruntimeconfig.cache
